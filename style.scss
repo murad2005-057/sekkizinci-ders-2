@@ -1,0 +1,36 @@
+body{
+   
+    margin: 0 auto;
+    
+}
+.contanier{
+    background-color: blue;
+    padding: 10px;
+    color: #fff;
+    padding-left: 0;
+.text{
+    font-size: 20px;
+}
+}
+
+.cards{
+    display: flex;
+
+}
+
+
+.card-1{
+    padding-left: 60px;
+    flex: 33%;
+}
+.card-2{
+    padding-left:60px;
+    flex: 33%;
+}
+
+.card-3{
+    flex: 33%;
+    padding-left: 60px;
+}
+
+
